@@ -1,6 +1,6 @@
 # Jordan Flag Repository 🇯🇴
 
-Beautifully animated Palestinian flag featuring CSS keyframes and shimmer effects. This project demonstrates how to create realistic fabric movement and lighting using pure web technologies.
+Beautifully animated Jordan flag featuring CSS keyframes and shimmer effects. This project demonstrates how to create realistic fabric movement and lighting using pure web technologies.
 
 ## 📝 Project Description
 This repository contains a high-quality, animated representation of the flag. It’s designed to be lightweight, responsive, and visually striking, utilizing advanced CSS techniques to achieve a "waving" effect without the need for heavy video files or complex JavaScript.
